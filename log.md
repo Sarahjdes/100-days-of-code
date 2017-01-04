@@ -7,4 +7,14 @@
 **Thoughts** I am working with Bootstrap, and I realize I absolutely HATE it. I'll probably stop using it so much, only use a few cols and put some time on the CSS instead. 
 
 **Link(s) to work**
-[My Shihan Reynald Lamarre Tribute page](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+[My Shihan Reynald Lamarre Tribute page](http://codepen.io/sarahjdes/pen/dpxrZX)
+
+
+### Day 2: Janyary 4th 2017, Wednesday
+
+**Today's Progress**: I worked on my Portfolio for Free Code Camp
+
+**Thoughts** I wasn't having fun with Bootstrap yesterday, so I decided to switch to another project. I'll probably go back to my Tribute page at some point, but right now, what I need is a fun project, not one that I think of as a chore. I also signed up to be a mentor for a Ladies Learning Code workshop about HTML and CSS, so I might as well get back to these! 
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
