@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.profile img {
+    border-radius: 50%;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: black;
+    border-padding: 100px;
+    width: 300px;
+}
+.languages {
+  color: white;
+  background-color: black;
+}
+.projects {
+  color: black;
+  background-color: white;
+}
+.contact {
+  color: white;
+  background-color: black;
+}
