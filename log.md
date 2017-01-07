@@ -28,3 +28,13 @@
 
 **Link(s) to work**
 [My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+
+### Day 4: January 6th 2017, Friday
+
+**Today's Progress**: I worked on my Portfolio for Free Code Camp
+
+**Thoughts** Fun fun fun with divs, added a whole lot of flashy colors! I found a bunch of documentation about CSS, I'll probably be reading that this weekend. I'm having some trouble verticaly aligning my bio, but I'll figure it out at some point. 
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
