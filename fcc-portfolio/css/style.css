@@ -4,6 +4,37 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+.clearfix:after {
+      content: "";
+        display: table;
+          clear: both;
+}
+body {
+    background-color: yellow;
+}
+header {
+    margin: 200px auto;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+}
+.content-wrap {
+    max-width: 1000px;
+    width: 80%;
+    margin: 50px auto;
+    padding: 30px 0;
+}
+.profile {
+    width: 80%;
+    background-color: deeppink;
+    margin: 0 auto;
+}
 .profile img {
     border-radius: 50%;
     border-style: dashed;
@@ -11,6 +42,10 @@ html {
     border-color: black;
     border-padding: 100px;
     width: 300px;
+    float: left;
+}
+.summary {
+    background-color: green;
 }
 .languages {
   color: white;
