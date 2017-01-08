@@ -38,3 +38,13 @@
 
 **Link(s) to work**
 [My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+
+### Day 5: January 7th 2017, Saturday
+
+**Today's Progress**: I worked on my Portfolio for Free Code Camp
+
+**Thoughts** Initial layout is pretty much done, all I need is to find good stock images and start working on the different sections of my actual portfolio! 
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
