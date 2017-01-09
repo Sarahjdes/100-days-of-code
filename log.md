@@ -48,3 +48,14 @@
 
 **Link(s) to work**
 [My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+
+### Day 6: January 8th 2017, Sunday
+
+**Today's Progress**: Sunday Funday, worked on Advent Of Code 2016! (Python)
+
+**Thoughts** I'm currently stuck on Day 13 (skipped a few) and I'm really stucked at finding how many moves it takes to go through a maze. Most of the challenge is done, and I might either simply print the maze and find the solution myself, or ask a friend about it! 
+
+**Link(s) to work**
+[My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
+
