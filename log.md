@@ -59,3 +59,21 @@
 **Link(s) to work**
 [My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
 
+
+### Day 7: January 9th 2017, Monday
+
+**Today's Progress**: Didn't work on projects, but reinvested what I had learned playing with Python for a project at work!
+
+**Thoughts** I had a big day yesterday, so I didn't have a lot of spare time to code "for fun". But I did reinvest my Advent of Code knowledge to make a python script for work. I decided I'd make it could, as it was a "creative" job, I had a problem and needed to solve it. I'm glad it ended up working! 
+
+**Link(s) to work**
+
+
+### Day 8: January 10th 2017, Tuesday
+
+**Today's Progress**: Worked on second challenge of day 02 of Advent of Code
+
+**Thoughts** I've decided to go back to playing on Advent of Code, having fun! 
+
+**Link(s) to work**
+[My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
