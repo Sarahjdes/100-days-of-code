@@ -77,3 +77,13 @@
 
 **Link(s) to work**
 [My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
+
+
+### Day 9: January 11th 2017, Wednesday
+
+**Today's Progress**: Still refactoring code from day 02 of Advent of Code
+
+**Thoughts** Yesterday, I was trying to start from the code I had. Today, I opened up a new file and tried to completely rewrite my code in a more efficent manner. Works well! 
+
+**Link(s) to work**
+[My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
