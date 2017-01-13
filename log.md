@@ -87,3 +87,13 @@
 
 **Link(s) to work**
 [My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
+
+
+### Day 10: January 12th 2017, Thursday
+
+**Today's Progress**: Still refactoring code from day 02 of Advent of Code
+
+**Thoughts** I don't know if I'm going forward, but at least, I'm not going backwards! 
+
+**Link(s) to work**
+[My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
