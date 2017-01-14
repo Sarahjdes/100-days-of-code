@@ -107,3 +107,13 @@
 
 **Link(s) to work**
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+
+
+### Day 12: January 14th 2017, Saturday
+
+**Today's Progress**: Finished yesterday's CSS project, followed an intermediate tutorial
+
+**Thoughts** It's easier than I thought! To be honest, I always thought CSS was weird, but I'm getting the hang of it and feeling like a real artist :) 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
