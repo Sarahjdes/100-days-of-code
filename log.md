@@ -97,3 +97,13 @@
 
 **Link(s) to work**
 [My AdventOfCode Solutions Repo](https://github.com/sarahjdes/adventOfCode)
+
+
+### Day 11: January 13th 2017, Friday
+
+**Today's Progress**: Heard about #DailyCSSImages. Of course I had to try it! Did the beginner's tutorial, and got started on Day01 image. 
+
+**Thoughts** I wanted to try some CSS fun, and this challenge/project is exactly what I needed! It's fun and different from what I usually do. Artsy, but mathsy as well. I don't think I can do one daily, but I sure can do one or two weekly during my 100 days of code :) 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
