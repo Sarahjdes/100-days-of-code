@@ -117,3 +117,13 @@
 
 **Link(s) to work**
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+
+
+### Day 13: January 16th 2017, Monday
+
+**Today's Progress**: Skipped yesterday, I went outside instead, and it felt soooo good. Today, I worked on day02 of #DailyCSSImages, which is an elephant. So far so good! Still trying to figure out how I'll draw the trunk. 
+
+**Thoughts** Getting away from your computer is often beneficial! It felt good to take a break yesterday. This doesn't count towards my 100 days, so today is day 13. U Go GURL! 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
