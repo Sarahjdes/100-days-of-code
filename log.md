@@ -127,3 +127,13 @@
 
 **Link(s) to work**
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+
+
+### Day 14: January 17th 2017, Monday
+
+**Today's Progress**: Almost done with my elephant, but I need new colors! I also played with ZSH in iTerm2, fun fun fun! 
+
+**Thoughts** I heard about ZSH today and decided to give it a shot. It was a little frustrating at first, but once you have it set up, there seem to be a lot of possibilities! 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
