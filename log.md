@@ -129,11 +129,21 @@
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
 
 
-### Day 14: January 17th 2017, Monday
+### Day 14: January 17th 2017, Tuesday
 
 **Today's Progress**: Almost done with my elephant, but I need new colors! I also played with ZSH in iTerm2, fun fun fun! 
 
 **Thoughts** I heard about ZSH today and decided to give it a shot. It was a little frustrating at first, but once you have it set up, there seem to be a lot of possibilities! 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+
+
+### Day 15: January 18th 2017, Wednesday
+
+**Today's Progress**: Worked on Day03 of Daily CSS Images, almost done with my beaver!
+
+**Thoughts** I needed a little more challenge, so I decided to do the body as well. Not quite sure if it looks good, but it's still a little more challenging. At some point, I'll also need to make a page where I can showcase my daily CSS art. I can even include it in my portfolio! (Still need to finish that project as well!)
 
 **Link(s) to work**
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
