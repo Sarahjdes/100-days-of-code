@@ -147,3 +147,13 @@
 
 **Link(s) to work**
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+
+
+### Day 16: January 18th 2017, Thursday
+
+**Today's Progress**: Worked on Day04 of Daily CSS Images, tiger! 
+
+**Thoughts** I'm still confused on how (and if!) it is possible to do half of a circle for the chin. We'll see! 
+
+**Link(s) to work**
+[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
