@@ -149,7 +149,7 @@
 [Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
 
 
-### Day 16: January 18th 2017, Thursday
+### Day 16: January 19th 2017, Thursday
 
 **Today's Progress**: Worked on Day04 of Daily CSS Images, tiger! 
 
@@ -157,3 +157,23 @@
 
 **Link(s) to work**
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 17: January 20th 2017, Friday
+
+**Today's Progress**: Worked on Day04 of Daily CSS Images, tiger! 
+
+**Thoughts** Almost done with my tiger, but I think I need a new project. How about a Slack Bot? 
+
+**Link(s) to work**
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 18: January 21th 2017, Saturday
+
+**Today's Progress**: Started working on my very first Slackbot!
+
+**Thoughts** New challenge today, making a bot! I was tired of CSS drawing, so here's something new to play with!
+
+**Link(s) to work**
+[H2O Slackbot repo](https://github.com/Sarahjdes/h2o-slackbot)
