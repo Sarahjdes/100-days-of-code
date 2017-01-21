@@ -106,7 +106,7 @@
 **Thoughts** I wanted to try some CSS fun, and this challenge/project is exactly what I needed! It's fun and different from what I usually do. Artsy, but mathsy as well. I don't think I can do one daily, but I sure can do one or two weekly during my 100 days of code :) 
 
 **Link(s) to work**
-[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
 
 
 ### Day 12: January 14th 2017, Saturday
@@ -116,7 +116,7 @@
 **Thoughts** It's easier than I thought! To be honest, I always thought CSS was weird, but I'm getting the hang of it and feeling like a real artist :) 
 
 **Link(s) to work**
-[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
 
 
 ### Day 13: January 16th 2017, Monday
@@ -136,7 +136,7 @@
 **Thoughts** I heard about ZSH today and decided to give it a shot. It was a little frustrating at first, but once you have it set up, there seem to be a lot of possibilities! 
 
 **Link(s) to work**
-[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
 
 
 ### Day 15: January 18th 2017, Wednesday
@@ -156,4 +156,4 @@
 **Thoughts** I'm still confused on how (and if!) it is possible to do half of a circle for the chin. We'll see! 
 
 **Link(s) to work**
-[Daily CSS Images repo (to come!)](https://github.com/sarahjdes/dailyCSSImages)
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
