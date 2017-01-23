@@ -177,3 +177,13 @@
 
 **Link(s) to work**
 [H2O Slackbot repo](https://github.com/Sarahjdes/h2o-slackbot)
+
+
+### Day 19: January 22nd 2017, Sunday
+
+**Today's Progress**: Worked on Day04 of Daily CSS Images, animal of choice!
+
+**Thoughts** I've already done an elephant, but not from behind! (Which was sooo much easier than drawing its face!) I think I'll stop working on the #DailyCSSImages and keep those for the weekends, or at least in between projects :) I can now say that despite my lack of drawing skills, I am a-little-good at Pure CSS drawing!
+
+**Link(s) to work**
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
