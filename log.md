@@ -187,3 +187,10 @@
 
 **Link(s) to work**
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 20: January 23rd 2017, Monday
+
+**Today's Progress**: Worked on FCC JS algorithms
+
+**Thoughts** It's been forever since I last did some JS algorithms. I had stopped because it was getting a little hard for me. Since then, I've been doing some Python, which really did help with the whole aldorithm logic. Today, I only had to google the proper syntax and such, bevause I was getting kinda rusty, forgetting my semi-colons and my curly braces!
