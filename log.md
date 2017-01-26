@@ -196,8 +196,19 @@
 **Thoughts** It's been forever since I last did some JS algorithms. I had stopped because it was getting a little hard for me. Since then, I've been doing some Python, which really did help with the whole aldorithm logic. Today, I only had to google the proper syntax and such, bevause I was getting kinda rusty, forgetting my semi-colons and my curly braces!
 
 
-### Day 21: January 23rd 2017, Monday
+### Day 21: January 24th 2017, Tuesday
 
 **Today's Progress**: Worked on FCC JS algorithms
 
 **Thoughts** Still working on 'em! 
+
+
+
+### Day 22: January 25th 2017, Wedndesday
+
+**Today's Progress**: Worked on a new slackbot, a rock paper scissors one
+
+**Thoughts** I've come to the conclusion that I didn't really know where I was going with my h2o-slackbot. What did I want it to do? So I switched to a new one, which will essentially play rock paper scissors. Simple, and I know which flow I want it to follow. 
+
+**Link(s) to work**
+[Slackbots repo](https://github.com/Sarahjdes/slackbots)
