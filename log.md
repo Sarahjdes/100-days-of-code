@@ -203,12 +203,21 @@
 **Thoughts** Still working on 'em! 
 
 
-
 ### Day 22: January 25th 2017, Wedndesday
 
 **Today's Progress**: Worked on a new slackbot, a rock paper scissors one
 
 **Thoughts** I've come to the conclusion that I didn't really know where I was going with my h2o-slackbot. What did I want it to do? So I switched to a new one, which will essentially play rock paper scissors. Simple, and I know which flow I want it to follow. 
+
+**Link(s) to work**
+[Slackbots repo](https://github.com/Sarahjdes/slackbots)
+
+
+### Day 23: January 26th 2017, Thursday
+
+**Today's Progress**: Worked on rock-paper-scissors (RPS) Slackbot
+
+**Thoughts** Doing good! Bot picks its move and added attachments. It's not pretty, I've added way too many fields that are not mandatory, but it helps me get to know what can be done. I'm also a lot more confident when it comes to what I am doing and how the bots work. One of my best days so for!
 
 **Link(s) to work**
 [Slackbots repo](https://github.com/Sarahjdes/slackbots)
