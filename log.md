@@ -221,3 +221,17 @@
 
 **Link(s) to work**
 [Slackbots repo](https://github.com/Sarahjdes/slackbots)
+
+
+### Day 24: January 27th 2017, Friday
+
+**Today's Progress**: Worked with Webflow
+
+**Thoughts** I redid a landing page at work, and had to use Webflow. With the Daily CSS Images challenge, I used CSS more within the last week than I did during the past years. Webflow didn't require code, but it did require the logic of creating divs with classes. It was a great exercice that was in reinvested what I learned with #100DaysOfCode, so even if it was work-related, I decided it counted #imaketherules ;) 
+
+
+### Day 25: January 28th 2017, Saturday
+
+**Today's Progress**: Mentored at a HTML/CSS workshop
+
+**Thoughts** I volunteered at a beginner HTML/CSS workshop for Ladies Learning Code. You remember 5% of what you hear, 10% of what you read, 75% of that you do (yay for coding!) and 90% of what you teach. Besides the portfolio I started for FCC, I haven't done many websites recently, so it got me back into the whole HTML-CSS layouts, and I got to mentor women doing it for the first time. And I'll probably remember 90%. Because 100 Days of Code is also about diversity in what you're doing!
