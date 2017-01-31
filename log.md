@@ -245,3 +245,13 @@
 
 **Link(s) to work**
 [Slackbots repo](https://github.com/Sarahjdes/slackbots)
+
+
+### Day 27: January 30th 2017, Monday
+
+**Today's Progress**: Worked on RPS Slackbot
+
+**Thoughts** Started playing with conversations. I'm having problem with the order of what my bot says. I'll keep looking at examples and read documentation! 
+
+**Link(s) to work**
+[Slackbots repo](https://github.com/Sarahjdes/slackbots)
