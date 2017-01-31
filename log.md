@@ -235,3 +235,13 @@
 **Today's Progress**: Mentored at a HTML/CSS workshop
 
 **Thoughts** I volunteered at a beginner HTML/CSS workshop for Ladies Learning Code. You remember 5% of what you hear, 10% of what you read, 75% of that you do (yay for coding!) and 90% of what you teach. Besides the portfolio I started for FCC, I haven't done many websites recently, so it got me back into the whole HTML-CSS layouts, and I got to mentor women doing it for the first time. And I'll probably remember 90%. Because 100 Days of Code is also about diversity in what you're doing!
+
+
+### Day 26: January 29th 2017, Sunday
+
+**Today's Progress**: Worked on RPS Slackbot
+
+**Thoughts** Wrote a few function for my RPS Slackbot! These functions will be used to decide who wins (Slackbot vs. User) and what the bot picks. 
+
+**Link(s) to work**
+[Slackbots repo](https://github.com/Sarahjdes/slackbots)
