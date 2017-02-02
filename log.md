@@ -255,3 +255,20 @@
 
 **Link(s) to work**
 [Slackbots repo](https://github.com/Sarahjdes/slackbots)
+
+
+### Day 28: January 31st 2017, Tuesday
+
+**Today's Progress**: Worked on portfolio 
+
+**Thoughts** I came back to playing with my portfolio! Seeing women building their first webpage during LLC Saturday gave me the kick I needed to come back to my portfolio. I also intend to host it on Github Pages once I'm done
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+
+### Day 29: February 1st 2017, Wednesday
+
+**Today's Progress**: Learned about nodeJS
+
+**Thoughts** To me, Node was that thing I would use to run either scripts or projects. I could also use NPM to download packages. This is all I knew about it! I found an interesting series of videos about it on LearnCode.academy, so I've been watching those and trying my own stuff on the side. Fun fun fun! I already understand a bit more how it works.
