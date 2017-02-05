@@ -279,3 +279,13 @@
 **Today's Progress**: Worked an automatisation script (BASH) for work purposes
 
 **Thoughts** When people ask me how I studied to be a teacher (wasn't my jam after all), started working as a trainer in an EdTech startup and ended in the dev department, I can't help it but quote Bill Gates : « I choose a lazy person to do a hard job because a lazy person will find an easy way to do it. » I had a lot of copy-paste jobs, which I hated. So slowly, I started looking into our app code to create very simple scripts that would do the job for me. Smart, uh? So today, I found out one of my colleagues had a humongous job to do. So I jumped right in and developed a script, making sure it would be reusable. Once I ran my script, the whole thing took about 7 minutes. « Woah, and how do I learn to do that? » Baby steps ;) 
+
+
+### Day 31: February 4th 2017, Saturday
+
+**Today's Progress**: Worked on portfolio
+
+**Thoughts** Sick day, worked on my portfolio, I didn't get much done, but I did code. 
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
