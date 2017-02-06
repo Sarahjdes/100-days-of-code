@@ -289,3 +289,13 @@
 
 **Link(s) to work**
 [My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+
+### Day 32: February 5th 2017, Sunday
+
+**Today's Progress**: Worked on FCC algorithms
+
+**Thoughts** Still sick, I worked on an FCC algorithms. I started using nodemon to run them in terminal. Everytime I save my .js file, it runs again automaticaly, so I don't need to run node over and over again. Love it! 
+
+**Link(s) to work**
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
