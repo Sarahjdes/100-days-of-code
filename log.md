@@ -297,5 +297,16 @@
 
 **Thoughts** Still sick, I worked on an FCC algorithms. I started using nodemon to run them in terminal. Everytime I save my .js file, it runs again automaticaly, so I don't need to run node over and over again. Love it! 
 
-**Link(s) to work**
-[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+
+### Day 33: February 6th 2017, Monday
+
+**Today's Progress**: Created a random quote machine for FCC
+
+**Thoughts** Started working on the FCC random quote machine! I'm almost done with it already, it needs more styling, but that's pretty much it :) 
+
+
+### Day 34: February 7th 2017, Tuesday
+
+**Today's Progress**: Created a script for work! (IF)
+
+**Thoughts** I totally get the "work doesn't count", but I take my personnal time to work on on something work-related, it counts :) And I am having fun. I wrote a script to automate part of my coworker's job, and I had so much fun. It is a bash script, so I even added ASCII text and image, with color and all, so I went crazy, and that was fun! 
