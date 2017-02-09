@@ -310,3 +310,12 @@
 **Today's Progress**: Created a script for work! (IF)
 
 **Thoughts** I totally get the "work doesn't count", but I take my personnal time to work on on something work-related, it counts :) And I am having fun. I wrote a script to automate part of my coworker's job, and I had so much fun. It is a bash script, so I even added ASCII text and image, with color and all, so I went crazy, and that was fun! 
+
+
+### Day 35: February 8th 2017, Wednesday
+
+**Today's Progress**: Finished my random quote machine!
+
+**Thoughts** I'm done with my random quote machine! It works, it tweets, yay! All I need now is to add a lot of new wonderful quotes from the author I picked.  
+
+[My Random Quote Machine](http://codepen.io/sarahjdes/pen/jyeNBO)
