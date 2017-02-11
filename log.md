@@ -319,3 +319,10 @@
 **Thoughts** I'm done with my random quote machine! It works, it tweets, yay! All I need now is to add a lot of new wonderful quotes from the author I picked.  
 
 [My Random Quote Machine](http://codepen.io/sarahjdes/pen/jyeNBO)
+
+
+### Day 36: February 10th 2017, Friday
+
+**Today's Progress**: Worked on FCC algorithms
+
+**Thoughts** Still working on FCC algorithms. I've been working a lot lately, and I don't have much energy to put into recreational coding once I come back from work. It's been hard to keep going! Skipped yesterday, but managed to do hald an hour today. 
