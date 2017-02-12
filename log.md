@@ -326,3 +326,10 @@
 **Today's Progress**: Worked on FCC algorithms
 
 **Thoughts** Still working on FCC algorithms. I've been working a lot lately, and I don't have much energy to put into recreational coding once I come back from work. It's been hard to keep going! Skipped yesterday, but managed to do hald an hour today. 
+
+
+### Day 37: February 11th 2017, Saturday
+
+**Today's Progress**: Worked on FCC algorithms
+
+**Thoughts** Still working on FCC algorithms. I've been stuck for DAYS on the same one, and this is getting very frustrating. But I'll get it at some point.  
