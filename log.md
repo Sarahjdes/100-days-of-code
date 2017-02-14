@@ -333,3 +333,10 @@
 **Today's Progress**: Worked on FCC algorithms
 
 **Thoughts** Still working on FCC algorithms. I've been stuck for DAYS on the same one, and this is getting very frustrating. But I'll get it at some point.  
+
+
+### Day 38: February 13th 2017, Monday
+
+**Today's Progress**: Trying to figure out the Weather FCC project
+
+**Thoughts** Started working on the FCC Weather app. Trying to figure out how openweathermap works!
