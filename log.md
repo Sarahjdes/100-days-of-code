@@ -340,3 +340,12 @@
 **Today's Progress**: Trying to figure out the Weather FCC project
 
 **Thoughts** Started working on the FCC Weather app. Trying to figure out how openweathermap works!
+
+
+### Day 39: February 14th 2017, Tuesday
+
+**Today's Progress**: Contributed to someone else's project for the 1st time!
+
+**Thoughts** For the first time, I forked a project and submitted a pull request. Nothing fancy, juste a few FR translations (perks of being a French speaker!), but that was my first time, and I'm proud to be giving a little bit of my time to a fellow #100DaysOfCode 'player' :)
+
+[PomoFocus](https://github.com/Sarahjdes/PomoFocus)
