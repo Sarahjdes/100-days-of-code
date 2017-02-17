@@ -349,3 +349,20 @@
 **Thoughts** For the first time, I forked a project and submitted a pull request. Nothing fancy, juste a few FR translations (perks of being a French speaker!), but that was my first time, and I'm proud to be giving a little bit of my time to a fellow #100DaysOfCode 'player' :)
 
 [PomoFocus](https://github.com/Sarahjdes/PomoFocus)
+
+
+### Day 40: February 15th 2017, Wednesday
+
+**Today's Progress**: Back to Daily CSS Images! Clock
+
+**Thoughts** I've decided to go back to Daily CSS Images! That is the perfect thing to do whenever I am busy. It doesn't take me long to get into it, so even if I cannot do a full hour that day, I'm still able to do some code. I'd rather do 30 minutes of code than none! 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+### Day 41: February 16th 2017, Thursday
+
+**Today's Progress**: Still working on my CSS Clock image
+
+**Thoughts** My clock is looking good so far, I'm getting quicker at positioning my elements (the numbers!), but I need to find a font that allows me to do cool roman numbers :)
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
