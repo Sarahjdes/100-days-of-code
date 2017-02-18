@@ -359,10 +359,20 @@
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
 
+
 ### Day 41: February 16th 2017, Thursday
 
 **Today's Progress**: Still working on my CSS Clock image
 
 **Thoughts** My clock is looking good so far, I'm getting quicker at positioning my elements (the numbers!), but I need to find a font that allows me to do cool roman numbers :)
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 421: February 17th 2017, Friday
+
+**Today's Progress**: Finished my CSS Clock image
+
+**Thoughts** Finished my clock! I wonder if I can start from this project, and make an actual clock that will display the time! Hmmm, there is definetly something to do with that!
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
