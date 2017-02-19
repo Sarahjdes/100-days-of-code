@@ -369,10 +369,19 @@
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
 
 
-### Day 421: February 17th 2017, Friday
+### Day 42: February 17th 2017, Friday
 
 **Today's Progress**: Finished my CSS Clock image
 
 **Thoughts** Finished my clock! I wonder if I can start from this project, and make an actual clock that will display the time! Hmmm, there is definetly something to do with that!
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 43: February 18th 2017, Saturday
+
+**Today's Progress**: Worked on a CSS Ruler image! 
+
+**Thoughts** Worked, from start to finish, on a CSS image. The challenge was to make a ruler, which reminded me of a "You rock - You rule" illustration I liked very much. I now have my own, and it's all CSS made! I'm soooo proud of it, this is probably the CSS image on which I worked the hardest and which looks the nicer. I had to actually understand the whole clip-path thing, which would have helped me with other designs I made previously. Yay for me, I both rock and rule! Call me the CSS princess. 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
