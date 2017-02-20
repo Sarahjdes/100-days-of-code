@@ -385,3 +385,12 @@
 **Thoughts** Worked, from start to finish, on a CSS image. The challenge was to make a ruler, which reminded me of a "You rock - You rule" illustration I liked very much. I now have my own, and it's all CSS made! I'm soooo proud of it, this is probably the CSS image on which I worked the hardest and which looks the nicer. I had to actually understand the whole clip-path thing, which would have helped me with other designs I made previously. Yay for me, I both rock and rule! Call me the CSS princess. 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 44: February 19th 2017, Sunday
+
+**Today's Progress**: Worked on a CSS Notepad image! 
+
+**Thoughts** Drew a notepad and decided to add a pencil next to it! I'm getting a lot better at CSS, I really do see a difference between what I could do at the beginning of the challenge and now. Yay!  
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
