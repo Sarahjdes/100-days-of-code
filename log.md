@@ -394,3 +394,26 @@
 **Thoughts** Drew a notepad and decided to add a pencil next to it! I'm getting a lot better at CSS, I really do see a difference between what I could do at the beginning of the challenge and now. Yay!  
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 45: February 20th 2017, Monday
+
+**Today's Progress**: Learning about MEANjs
+
+**Thoughts** That was something completely new to me! Not much coding, but a lot of research.
+
+
+### Day 46: February 21st 2017, Tuesday
+
+**Today's Progress**: First app using Express & MongoDB!
+
+**Thoughts** I did follow a tutorial for this one, but it was awesome to see that a very simple app had the same folders, files and functions than a much bigger app, like the one we have at work! 
+
+
+### Day 47: February 22nd 2017, Wednesday
+
+**Today's Progress**: Vagrant, MongoDB & More CSS
+
+**Thoughts** After trying (very hard!) to install a Vagrant machine along with MongoDB, I gave up and went to work on some CSS image : a calendar
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
