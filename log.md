@@ -417,3 +417,17 @@
 **Thoughts** After trying (very hard!) to install a Vagrant machine along with MongoDB, I gave up and went to work on some CSS image : a calendar
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 48: February 23rd 2017, Thursday
+
+**Today's Progress**: Express & MongoDB
+
+**Thoughts** Finished a tutorial I started Tuesday, I learned about the Update and Delete. I then re-installed Express, Npm and MongoDB to make my own app. I had this nutrition app project with a friend of mine. Nothing that will change the world, but it is going to be a fun exercice! 
+
+
+### Day 49: February 24th 2017, Friday
+
+**Today's Progress**: MongoDB readings and BASH scripting for BievenueForce
+
+**Thoughts** I automated a nunch of tasks for work, and today was THE test. I've said it in the past, but as this is not something I was asked to build for work, but rather an initiative of my own to make my job easier AND learn new things, I am including it in my 100DOC. I added a few IF in my code. I will need to clean up my code, as there are a lof of outputs and other things that are saved that I don't really need. I'm also reading "MongoDB : The Definitive Guide" from O'Reilly, and it is super interesting! I really want to read the whole thing in order to know the possibilities of what can be done with MongoDB for my nutrition app.  
