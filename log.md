@@ -431,3 +431,47 @@
 **Today's Progress**: MongoDB readings and BASH scripting for BievenueForce
 
 **Thoughts** I automated a nunch of tasks for work, and today was THE test. I've said it in the past, but as this is not something I was asked to build for work, but rather an initiative of my own to make my job easier AND learn new things, I am including it in my 100DOC. I added a few IF in my code. I will need to clean up my code, as there are a lof of outputs and other things that are saved that I don't really need. I'm also reading "MongoDB : The Definitive Guide" from O'Reilly, and it is super interesting! I really want to read the whole thing in order to know the possibilities of what can be done with MongoDB for my nutrition app.  
+
+
+### Day 50: February 25th 2017, Saturday
+
+**Today's Progress**: MongoDB readings and playing
+
+**Thoughts** Who's halfway through 100 Days of Code? Uh, that might be me! I didn't think I would make it that far. I only skipped two days so far, and I'm proud of what I've done! 
+
+
+### Day 51: February 26th 2017, Sunday
+
+**Today's Progress**: MongoDB readings and such
+
+**Thoughts** Still getting to know more about MongoDB, and I'm getting quite good at it!
+
+
+### Day 52: February 27th 2017, Monday
+
+**Today's Progress**: MongoDB, eat, sleep, repeat!
+
+**Thoughts** More MongoDB, and starting the Flatiron School Bootcamp Prep course
+
+
+### Day 53: February 28th 2017, Tuesday
+
+**Today's Progress**: Flatiron School Bootcamp Prep course
+
+**Thoughts** Right now, I already know pretty much everything I'm reading about, or in the labs, but there will be Ruby at some point! 
+
+
+### Day 54: March 1st 2017, Wednesday
+
+**Today's Progress**: Flatiron School Bootcamp Prep course + helped a fellow student!
+
+**Thoughts** Got to help a fellow student, it was a lot of fun! There is this chart that says you remember 75% of what you do, and 90% or what you teach. Well I got that 90%! 
+
+
+### Day 55: March 2nd 2017, Thursday
+
+**Today's Progress**: Flatiron School Bootcamp Prep + Back to CSS!
+
+**Thoughts** Finished my DCI calendar and did the pencil jar as well :) I'm really getting good at this, and I'm quite proud of it! 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
