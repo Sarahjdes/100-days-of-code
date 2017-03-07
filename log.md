@@ -475,3 +475,32 @@
 **Thoughts** Finished my DCI calendar and did the pencil jar as well :) I'm really getting good at this, and I'm quite proud of it! 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 56: March 3rd 2017, Friday
+
+**Today's Progress**: Flatiron School Bootcamp Prep (Scope)
+
+**Thoughts** Stuck on a scope lab
+
+
+### Day 57: March 4th 2017, Saturday
+
+**Today's Progress**: Flatiron School Bootcamp Prep (Scope)
+
+**Thoughts** Still stuck on a scope lab
+
+
+### Day 58: March 5th 2017, Sunday
+
+**Today's Progress**: Flatiron School Bootcamp Prep (Scope)
+
+**Thoughts** Still stuck on that scope lab
+
+
+### Day 59: March 6th 2017, Monday
+
+**Today's Progress**: Flatiron School Bootcamp Prep (Scope)
+
+**Thoughts** Finally unstuck that scope lab! Only to see that I wasn't starting from the good thing. Dang. 
+
