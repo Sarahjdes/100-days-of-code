@@ -504,3 +504,31 @@
 
 **Thoughts** Finally unstuck that scope lab! Only to see that I wasn't starting from the good thing. Dang. 
 
+
+### Day 60: March 7th 2017, Tuesday
+
+**Today's Progress**: purpleApp!
+
+**Thoughts** My nutriApp became a purpleApp. I am still working toward a logging app, but not about nutrition.
+
+
+### Day 61: March 8th 2017, Wednesday
+
+**Today's Progress**: purpleApp!
+
+**Thoughts** Once again, playing with the whole crud thing. I spent quite a lot of time on the deleting request, still not sure I correctly understand everything :-/ 
+
+
+### Day 62: March 9th 2017, Thursday
+
+**Today's Progress**: BASH! writing scripts to make my job easier
+
+**Thoughts** Ok, let's face it : the more time I spend playing with BASH-scripting, the worse I realize it is. I did my first case/switch statement today. The syntax is horrible! But bash is great to easily automate things, right? 
+
+
+### Day 63: March 10th 2017, Friday
+
+**Today's Progress**: Sonic Pi and DailyCSSImages!
+
+**Thoughts** I started to play with Sonic Pi, then realized that altought it is quite easy to make a few notes, it will take a lot of time for an ex-clarinetist like me to make something I would be proud of! So off I go, back to my DailyCSSImages. Taco? Ja! 
+
