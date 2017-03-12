@@ -530,5 +530,13 @@
 
 **Today's Progress**: Sonic Pi and DailyCSSImages!
 
-**Thoughts** I started to play with Sonic Pi, then realized that altought it is quite easy to make a few notes, it will take a lot of time for an ex-clarinetist like me to make something I would be proud of! So off I go, back to my DailyCSSImages. Taco? Ja! 
+**Thoughts** I started to play with Sonic Pi, then realized that altought it is quite easy to make a few notes, it will take a lot of time for an ex-clarinetist like me to make something I would be proud of! So off I go, back to my DailyCSSImages. Pizza? Ja! 
 
+
+### Day 64: March 11th 2017, Saturday
+
+**Today's Progress**: DailyCSSImages : burger
+
+**Thoughts** I Working on a css burger! I found a really cool palette, so at least, I do not have to worry about that aspect of it. Still, I am finding it hard to make it round-ish, even with border-radius. 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
