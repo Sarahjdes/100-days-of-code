@@ -540,3 +540,21 @@
 **Thoughts** I Working on a css burger! I found a really cool palette, so at least, I do not have to worry about that aspect of it. Still, I am finding it hard to make it round-ish, even with border-radius. 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 65: March 12th 2017, Sunday
+
+**Today's Progress**: DailyCSSImages : burger (still!)
+
+**Thoughts** My CSS burger is almost ready! But I might add some texture
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 66: March 13th 2017, Monday
+
+**Today's Progress**: DailyCSSImages : burger texture (done!)
+
+**Thoughts** Finally done with my burger! I added some texture to the pickle using the ::after pseudo class to make crescent shaped bumps, and even added some gradient to the tomato. 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
