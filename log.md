@@ -558,3 +558,21 @@
 **Thoughts** Finally done with my burger! I added some texture to the pickle using the ::after pseudo class to make crescent shaped bumps, and even added some gradient to the tomato. 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 67: March 14th 2017, Tuesday
+
+**Today's Progress**: DailyCSSImages : it's Taco Tuesday! (And bunch of BASH)
+
+**Thoughts** Started a taco shell! Didn't get much done, but I had time to kill while taking the metro. 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 68: March 15th 2017, Wednesday
+
+**Today's Progress**: DailyCSSImages : Taco, still!
+
+**Thoughts** I've been adding meat-beans, guacamole and sour cream to my taco. I should be able to finish it tomorrow.Having Internet at home really does help when I need to find online resources! 
+
+[Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
