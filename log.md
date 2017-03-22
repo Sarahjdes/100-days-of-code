@@ -576,3 +576,45 @@
 **Thoughts** I've been adding meat-beans, guacamole and sour cream to my taco. I should be able to finish it tomorrow.Having Internet at home really does help when I need to find online resources! 
 
 [Daily CSS Images repo](https://github.com/Sarahjdes/dailycssimages)
+
+
+### Day 69: March 16th 2017, Thursday
+
+**Today's Progress**: Khan Academy : Algorithms!
+
+**Thoughts** My friend has been talking to me about her algorithms uni course for weeks. So I decided to give the Khan Academy algorithms course a shot. Very interesting so far, I've been learning about linear and binary searches. 
+
+
+### Day 70: March 17th 2017, Friday
+
+**Today's Progress**: TGIF, I'm off for a week! Back to Khan Academy : Algorithms!
+
+**Thoughts** Not moving very fast, still on the binary search, but I finally had it to work. 
+
+
+### Day 71: March 18th 2017, Saturday
+
+**Today's Progress**: A bit of algorithms for KA
+
+**Thoughts** Algorithms are harder then I thought. Currently reading about the time it takes to execute one, and I'm totally lost. Logarithms have always been something I've struggled with, ever since high school. 
+
+
+### Day 72: March 19th 2017, Sunday
+
+**Today's Progress**: FCC, back to JS basics!
+
+**Thoughts** Algorithms are harder then I thought. Currently reading about the time it takes to execute one, and I'm totally lost. Logarithms have always been something I've struggled with, ever sinc
+
+
+### Day 73: March 20th 2017, Monday
+
+**Today's Progress**: FCC, done with Object Oriented and Functional Programming!
+
+**Thoughts** I have a crazy goal for this week : I want to finish the freeCodeCamp Front End Development Certification. I mean, it is crazy. But I want to break it down and choose a more realistic goal. But I'm done with JS Basics :) 
+
+
+### Day 74: March 21st 2017, Tuesday
+
+**Today's Progress**: FCC : Basic Algorithm Scripting
+
+**Thoughts** Currently stuck on Falsy Bouncer, with the whole .filter() Arf! 
