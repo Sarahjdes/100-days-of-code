@@ -618,3 +618,21 @@
 **Today's Progress**: FCC : Basic Algorithm Scripting
 
 **Thoughts** Currently stuck on Falsy Bouncer, with the whole .filter() Arf! 
+
+
+### Day 75: March 22nd 2017, Wednesday
+
+**Today's Progress**: FCC : Finised Basic Algos and jQuery
+
+**Thoughts** I'm finally done with those basic algorithms! Even the ones I had a lot of trouble with. (Been on them for months.) I also did the whole jQuery section. Tomorrow, I'm finishing my HTML/CSS and Bootstrap projects
+
+
+### Day 76: March 23rd 2017, Thursday
+
+**Today's Progress**: FCC : Tribute Page, Porfolio and Weather app.
+
+**Thoughts** Finally done with Tribute and Portfolio! I kept pushing them away. I also began to code the weather app, and I'm almost done with it. Yay! 
+
+[My Tribute Page](https://codepen.io/sarahjdes/full/dpxrZX)
+[My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
