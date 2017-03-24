@@ -636,3 +636,12 @@
 [My Tribute Page](https://codepen.io/sarahjdes/full/dpxrZX)
 [My Portfolio](http://codepen.io/sarahjdes/full/Bpyzpr/)
 [Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 77: March 24th 2017, Friday
+
+**Today's Progress**: FCC : Weather app
+
+**Thoughts** I don't have as much time as I wished I had today to work on my weather app, but I'm working hard on it. So fart, I can parse the info from a json format to display it on an html page. Yay! Geolocation works, but I cannot get the json info from the API. I kind of know how, but it is not working properly, there are a few bugs.
+
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
