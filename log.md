@@ -645,3 +645,12 @@
 **Thoughts** I don't have as much time as I wished I had today to work on my weather app, but I'm working hard on it. So fart, I can parse the info from a json format to display it on an html page. Yay! Geolocation works, but I cannot get the json info from the API. I kind of know how, but it is not working properly, there are a few bugs.
 
 [Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 78: March 25th 2017, Saturday
+
+**Today's Progress**: FCC : Weather app (still!)
+
+**Thoughts** Totally stuck on the .getJSON method. But I'll debug it, one day left if I want to achieve the goal I gave myself this week, I need to finish this challenge!
+
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
