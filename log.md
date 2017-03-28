@@ -672,3 +672,12 @@
 **Thoughts** The problem seems to come from Codepen, so I've decided to simply create an HTML file on my computer, and it seems to be working. Still not done, but definitly getting there!
 
 [Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 81: March 28th 2017, Tuesday
+
+**Today's Progress**: FCC : Weather app (back to Codepen!)
+
+**Thoughts** I'm trying to figure out why some things work on my computer, but not on Codepen. I've read something about cross-origin. Could that be it? Read, Search, Ask, not giving up! 
+
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
