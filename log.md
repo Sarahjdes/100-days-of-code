@@ -654,3 +654,21 @@
 **Thoughts** Totally stuck on the .getJSON method. But I'll debug it, one day left if I want to achieve the goal I gave myself this week, I need to finish this challenge!
 
 [Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 79: March 26th 2017, Sunday
+
+**Today's Progress**: FCC : Weather app (arf!)
+
+**Thoughts** I'm still trying to figure out why the .getJSON won't work. 
+
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 80: March 27th 2017, Monday
+
+**Today's Progress**: FCC : Weather app (kinda got the .getJSON to work!)
+
+**Thoughts** The problem seems to come from Codepen, so I've decided to simply create an HTML file on my computer, and it seems to be working. Still not done, but definitly getting there!
+
+[Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
