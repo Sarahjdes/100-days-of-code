@@ -681,3 +681,17 @@
 **Thoughts** I'm trying to figure out why some things work on my computer, but not on Codepen. I've read something about cross-origin. Could that be it? Read, Search, Ask, not giving up! 
 
 [Weather app](http://codepen.io/sarahjdes/full/evKpMv/)
+
+
+### Day 82: March 29th 2017, Wednesday
+
+**Today's Progress**: FCC : Intermediate Algorithm Scripting
+
+**Thoughts** Needed to get my head out of my weather app, so I've started Intermerdiate algos, but I'm also stuck. I was thinking about pursuing the 100DOC for for than a 100 days, but I feel like I would use a little rest! 
+
+
+### Day 83: March 30th 2017, Thursday
+
+**Today's Progress**: Enki! 
+
+**Thoughts** I just sat with my phone and worked on multiple exercices on my Enki app, that was fun! Maybe not for a full hour, but I really like this app so far, I'm learning a lot of cool stuff, but also re-reading stuff I used to know and completely forgot about. Every workout takes about 5-6 minutes, short and sweet, great for the buss ride (and not as bulky as having a laptop sitting on your lap!)
