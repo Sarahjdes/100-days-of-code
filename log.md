@@ -695,3 +695,24 @@
 **Today's Progress**: Enki! 
 
 **Thoughts** I just sat with my phone and worked on multiple exercices on my Enki app, that was fun! Maybe not for a full hour, but I really like this app so far, I'm learning a lot of cool stuff, but also re-reading stuff I used to know and completely forgot about. Every workout takes about 5-6 minutes, short and sweet, great for the buss ride (and not as bulky as having a laptop sitting on your lap!)
+
+
+### Day 84: March 31st 2017, Friday
+
+**Today's Progress**: Debugging in the terminal
+
+**Thoughts** Big day, and I didn't much time for recreative coding, but I did have to play with data in my terminal to find some lost data. I never understood why my code didn't run properly on my first try, but I did manage to find the input lines that didn't execute, and execute them. 
+
+
+### Day 85: April 1st 2017, Saturday
+
+**Today's Progress**: Enki, encore!
+
+**Thoughts** This weekend is Women Techmakers, and I'm attending it, whoop whoop! This means there isn't much time to code, so I did a few workouts with Enki. It's quick and easy to do on the bus. The only thing is that I am not set up to take notes, so I simply bookmark them, telling myself I'll take notes later. Oh well! (WTM17 is awesome!)
+
+
+### Day 86: April 2nd 2017, Sunday
+
+**Today's Progress**: Enki and codewars
+
+**Thoughts** My WTC17 weekend was awesome, but I'm so tired! A little Enki will do the trick for tonight :) 
