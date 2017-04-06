@@ -716,3 +716,24 @@
 **Today's Progress**: Enki and codewars
 
 **Thoughts** My WTC17 weekend was awesome, but I'm so tired! A little Enki will do the trick for tonight :) 
+
+
+### Day 87: April 3rd 2017, Monday
+
+**Today's Progress**: Enki and a bit of node
+
+**Thoughts** Another long day, didn't have much time to code, but I did do a few Enki workouts and started a node project with a colleague
+
+
+### Day 88: April 4th 2017, Tuesday
+
+**Today's Progress**: LearnYouNode!
+
+**Thoughts** I started LearYouNode today, and I like it! I want to maste node, as I will be using it for a project at work
+
+
+### Day 89: April 5th 2017, Wednesday
+
+**Today's Progress**: Keeping up with LearnYouNode
+
+**Thoughts** I really like LearnYouNode, as it is done inside your own terminal. No website needed! Very useful. Node itself is super duper interesting! 
