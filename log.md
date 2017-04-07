@@ -737,3 +737,17 @@
 **Today's Progress**: Keeping up with LearnYouNode
 
 **Thoughts** I really like LearnYouNode, as it is done inside your own terminal. No website needed! Very useful. Node itself is super duper interesting! 
+
+
+### Day 90: April 6th 2017, Thursday
+
+**Today's Progress**: Still learning with LearnYouNode!
+
+**Thoughts** Oooh, I finally understood what callbacks are all about! This will debug me on a lot of projects I am currently working on that simply "weren't working". 
+
+
+### Day 91: April 7th 2017, Friday
+
+**Today's Progress**: A bit of LearnYouNode, once again! 
+
+**Thoughts** I'm still progressing with LearnYouNode, and everything makes more sense. I'm currently reading "The Art of Node" by maxogden, and it's very well written! 
