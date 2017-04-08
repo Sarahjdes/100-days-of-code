@@ -751,3 +751,10 @@
 **Today's Progress**: A bit of LearnYouNode, once again! 
 
 **Thoughts** I'm still progressing with LearnYouNode, and everything makes more sense. I'm currently reading "The Art of Node" by maxogden, and it's very well written! 
+
+
+### Day 92: April 8th 2017, Saturday
+
+**Today's Progress**: Kicking butts with LearnYouNode!
+
+**Thoughts** Finished yet another challenge of LearnYouNode. Finally really getting comfortable with callbacks! 
