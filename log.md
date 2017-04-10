@@ -758,3 +758,10 @@
 **Today's Progress**: Kicking butts with LearnYouNode!
 
 **Thoughts** Finished yet another challenge of LearnYouNode. Finally really getting comfortable with callbacks! 
+
+
+### Day 93: April 9th 2017, Sunday
+
+**Today's Progress**: Gettin' modular with Node! (LearnYouNode)
+
+**Thoughts** New challenge, this time using modules! I do understand it, as I've played around with modular patterns before, but I definitly need more practice using it along with callbacks. 
