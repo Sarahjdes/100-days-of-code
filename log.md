@@ -765,3 +765,10 @@
 **Today's Progress**: Gettin' modular with Node! (LearnYouNode)
 
 **Thoughts** New challenge, this time using modules! I do understand it, as I've played around with modular patterns before, but I definitly need more practice using it along with callbacks. 
+
+
+### Day 94: April 10th 2017, Monday
+
+**Today's Progress**: CSS images & Backend workshop!
+
+**Thoughts** I went to a backend with NodeJS workshop today, it was really interesting! I didn't learn much, as we didn't go in depth, but it was really interesting. I must also say that it is incredible when I think that this is my last week of 100DOC! I will have made it!  
