@@ -772,3 +772,18 @@
 **Today's Progress**: CSS images & Backend workshop!
 
 **Thoughts** I went to a backend with NodeJS workshop today, it was really interesting! I didn't learn much, as we didn't go in depth, but it was really interesting. I must also say that it is incredible when I think that this is my last week of 100DOC! I will have made it!  
+
+
+### Day 95: April 11th 2017, Tuesday
+
+**Today's Progress**: Enki! (Browser APIs)
+
+**Thoughts** My schedule is always very tight on Tuesdays, so Enki is perfect for me! I read about browser APIs (and did some random coding during the day)
+
+
+
+### Day 96: April 12th 2017, Wednesday
+
+**Today's Progress**: CSS image : a cup of tea
+
+**Thoughts** I had been working on a CSS image of a cup of tea because I wanted to tell someone she was fantastic, with a lovely French pun. This is D-5 to the end! 
