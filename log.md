@@ -781,9 +781,29 @@
 **Thoughts** My schedule is always very tight on Tuesdays, so Enki is perfect for me! I read about browser APIs (and did some random coding during the day)
 
 
-
 ### Day 96: April 12th 2017, Wednesday
 
 **Today's Progress**: CSS image : a cup of tea
 
 **Thoughts** I had been working on a CSS image of a cup of tea because I wanted to tell someone she was fantastic, with a lovely French pun. This is D-5 to the end! 
+
+
+### Day 97: April 13th 2017, Thursday
+
+**Today's Progress**: Back to NodeJS! 
+
+**Thoughts** I came back to LearYouNode. I worked on HTTP Client, but I don't really get it. 
+
+
+### Day 98: April 14th 2017, Friday
+
+**Today's Progress**: NodeJS, again! 
+
+**Thoughts** Finally understood how the HTTP Client worked! Now onto HTTP Collect :-/ 
+
+
+### Day 99: April 15th 2017, Saturday
+
+**Today's Progress**: NodeJS, two more challenges done! 
+
+**Thoughts** I just finished two new LearnYouNode challenges! One more and I'm going to bed, alright? This is day 99, only one more day, and I'll have achieved my goal!
