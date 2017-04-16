@@ -807,3 +807,10 @@
 **Today's Progress**: NodeJS, two more challenges done! 
 
 **Thoughts** I just finished two new LearnYouNode challenges! One more and I'm going to bed, alright? This is day 99, only one more day, and I'll have achieved my goal!
+
+
+### Day 100: April 16th 2017, Sunday
+
+**Today's Progress**: Keeping up on LearnYouNode!
+
+**Thoughts** I could go on and say that I did one more LearnYouNode challenge and that... But let's get straight to the point : today is day 100, which means that I've completed my 100 Days of Code challenge! It is crazy to see that even tough it wasn't easy, and that it was a big commitment, I've done it! I think I must have skipped two or three days, which means I probably started 103 days ago. But I've done it :) Some days, I didn't do much, especially recently, I had a really tight schedule, so I sometimes ended up only doing 15-20 minutes. But I kept the habit, which is what I wanted to achieved. #100DaysOfCode, been there, done that, will probably happen again! 
